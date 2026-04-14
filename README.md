@@ -82,9 +82,9 @@ fun_fact: "I think like a hacker to defend like a guardian 🛡️"
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🔐 [**Cybersecurity Notes**](https://github.com/Abhi2672006) | Comprehensive cybersecurity labs, notes, and write-ups from hands-on practice | `Kali Linux` `Metasploit` `Nmap` |
-| 🛡️ [**Metasploitable Labs**](https://github.com/Abhi2672006) | Penetration testing exercises on Metasploitable - documented exploits and findings | `Metasploit` `Nmap` `Bash` |
-| 📋 [**More Coming Soon...**](https://github.com/Abhi2672006) | Stay tuned for more exciting projects! | `Python` `Security Tools` |
+| 🔐 [**Cybersecurity Notes**](https://github.com/Abhi2672006?tab=repositories) | Comprehensive cybersecurity labs, notes, and write-ups from hands-on practice | `Kali Linux` `Metasploit` `Nmap` |
+| 🛡️ [**Metasploitable Labs**](https://github.com/Abhi2672006?tab=repositories) | Penetration testing exercises on Metasploitable - documented exploits and findings | `Metasploit` `Nmap` `Bash` |
+| 📋 [**More Coming Soon...**](https://github.com/Abhi2672006?tab=repositories) | Stay tuned for more exciting projects! | `Python` `Security Tools` |
 
 </div>
 
@@ -173,6 +173,8 @@ const abhi = {
 ---
 
 ## 🤝 Connect with Me
+
+> 📝 **Customize this section:** Replace the placeholder URLs below with your actual social media profiles and contact information.
 
 <div align="center">
 
