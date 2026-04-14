@@ -4,7 +4,7 @@
 
 ### 🔒 Cybersecurity Enthusiast · 🔧 Automation Wizard · 💻 Competitive Programmer · 🕸️ Web Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F72B&center=true&vCenter=true&width=600&lines=Security+Researcher+%26+CTF+Player;Shell+Scripting+%26+Automation+Expert;Full-Stack+Web+Developer;Competitive+Programmer+%7C+LeetCode+Grinder;Always+Learning%2C+Always+Hacking+%F0%9F%94%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F72B&center=true&vCenter=true&width=600&lines=Security+Researcher+%26+CTF+Player;Shell+Scripting+%26+Automation+Expert;Full-Stack+Web+Developer;Competitive+Programmer+%7C+LeetCode+Grinder;Always+Learning%2C+Always+Hacking+%F0%9F%94%92)](https://git.io/typing-svg)
 
 </div>
 
@@ -104,7 +104,7 @@ $ whoami
 
 💬 **Open to**: Cybersecurity collaborations · CTF teams · Open-source contributions · Freelance automation scripts
 
-> *"The quieter you become, the more you are able to hear."* — Kali Linux motto 🐉
+> *"The quieter you become, the more you are able to hear."* 🐉
 
 </div>
 
